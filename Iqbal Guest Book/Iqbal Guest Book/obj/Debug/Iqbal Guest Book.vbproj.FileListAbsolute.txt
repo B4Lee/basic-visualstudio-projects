@@ -1,0 +1,36 @@
+C:\Users\Lenovo\Desktop\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.exe.config
+C:\Users\Lenovo\Desktop\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.exe
+C:\Users\Lenovo\Desktop\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.pdb
+C:\Users\Lenovo\Desktop\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.xml
+C:\Users\Lenovo\Desktop\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal_Guest_Book.Form1.resources
+C:\Users\Lenovo\Desktop\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal_Guest_Book.Resources.resources
+C:\Users\Lenovo\Desktop\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.exe
+C:\Users\Lenovo\Desktop\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.xml
+C:\Users\Lenovo\Desktop\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.pdb
+D:\My Project\Tugas\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.exe.config
+D:\My Project\Tugas\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.exe
+D:\My Project\Tugas\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.xml
+D:\My Project\Tugas\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.pdb
+D:\My Project\Tugas\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.exe
+D:\My Project\Tugas\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.pdb
+D:\My Project\Tugas\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.xml
+D:\My Project\Tugas\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal_Guest_Book.Form1.resources
+D:\My Project\Tugas\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal_Guest_Book.Resources.resources
+D:\My Project\Tugas\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.vbproj.GenerateResource.Cache
+D:\My Files\Tugas\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.exe.config
+D:\My Files\Tugas\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.exe
+D:\My Files\Tugas\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.xml
+D:\My Files\Tugas\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.exe
+D:\My Files\File Sekolah\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.xml
+D:\My Files\File Sekolah\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.exe.config
+D:\My Files\File Sekolah\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.exe
+D:\My Files\File Sekolah\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.xml
+D:\My Files\File Sekolah\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.vbprojAssemblyReference.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal_Guest_Book.Form1.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal_Guest_Book.Resources.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.vbproj.GenerateResource.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.vbproj.CoreCompileInputs.cache

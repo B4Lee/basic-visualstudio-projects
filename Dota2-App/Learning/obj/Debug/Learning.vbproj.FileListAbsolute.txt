@@ -1,0 +1,22 @@
+D:\My Project\Tugas\Microsoft Visual Studio\Learning\Learning\bin\Debug\Learning.exe.config
+D:\My Project\Tugas\Microsoft Visual Studio\Learning\Learning\bin\Debug\Learning.exe
+D:\My Project\Tugas\Microsoft Visual Studio\Learning\Learning\bin\Debug\Learning.pdb
+D:\My Project\Tugas\Microsoft Visual Studio\Learning\Learning\bin\Debug\Learning.xml
+D:\My Project\Tugas\Microsoft Visual Studio\Learning\Learning\obj\Debug\Learning.Form1.resources
+D:\My Project\Tugas\Microsoft Visual Studio\Learning\Learning\obj\Debug\Learning.Resources.resources
+D:\My Project\Tugas\Microsoft Visual Studio\Learning\Learning\obj\Debug\Learning.vbproj.GenerateResource.Cache
+D:\My Project\Tugas\Microsoft Visual Studio\Learning\Learning\obj\Debug\Learning.exe
+D:\My Project\Tugas\Microsoft Visual Studio\Learning\Learning\obj\Debug\Learning.xml
+D:\My Project\Tugas\Microsoft Visual Studio\Learning\Learning\obj\Debug\Learning.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Learning\Learning\obj\Debug\Learning.exe
+D:\My Files\File Sekolah\Microsoft Visual Studio\Learning\Learning\obj\Debug\Learning.xml
+D:\My Files\File Sekolah\Microsoft Visual Studio\Learning\Learning\obj\Debug\Learning.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Learning\Learning\bin\Debug\Learning.exe.config
+D:\My Files\File Sekolah\Microsoft Visual Studio\Learning\Learning\bin\Debug\Learning.exe
+D:\My Files\File Sekolah\Microsoft Visual Studio\Learning\Learning\bin\Debug\Learning.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Learning\Learning\bin\Debug\Learning.xml
+D:\My Files\File Sekolah\Microsoft Visual Studio\Learning\Learning\obj\Debug\Learning.vbprojAssemblyReference.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Learning\Learning\obj\Debug\Learning.Form1.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\Learning\Learning\obj\Debug\Learning.Resources.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\Learning\Learning\obj\Debug\Learning.vbproj.GenerateResource.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Learning\Learning\obj\Debug\Learning.vbproj.CoreCompileInputs.cache

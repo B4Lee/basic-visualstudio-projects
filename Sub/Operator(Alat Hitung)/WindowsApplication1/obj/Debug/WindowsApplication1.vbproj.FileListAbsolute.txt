@@ -1,0 +1,10 @@
+D:\My Files\Tugas\Microsoft Visual Studio\Operator(Alat Hitung)\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\My Files\Tugas\Microsoft Visual Studio\Operator(Alat Hitung)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\My Files\Tugas\Microsoft Visual Studio\Operator(Alat Hitung)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\My Files\Tugas\Microsoft Visual Studio\Operator(Alat Hitung)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Operator(Alat Hitung)\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\My Files\File Sekolah\Microsoft Visual Studio\Operator(Alat Hitung)\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\My Files\File Sekolah\Microsoft Visual Studio\Operator(Alat Hitung)\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Operator(Alat Hitung)\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Operator(Alat Hitung)\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\Operator(Alat Hitung)\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache

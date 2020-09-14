@@ -1,0 +1,21 @@
+D:\My Project\Tugas\Microsoft Visual Studio\Array Bulann\Array Bulann\bin\Debug\Array Bulann.exe.config
+D:\My Project\Tugas\Microsoft Visual Studio\Array Bulann\Array Bulann\obj\Debug\Array_Bulann.Form1.resources
+D:\My Project\Tugas\Microsoft Visual Studio\Array Bulann\Array Bulann\obj\Debug\Array_Bulann.Resources.resources
+D:\My Project\Tugas\Microsoft Visual Studio\Array Bulann\Array Bulann\obj\Debug\Array Bulann.vbproj.GenerateResource.Cache
+D:\My Project\Tugas\Microsoft Visual Studio\Array Bulann\Array Bulann\bin\Debug\Array Bulann.exe
+D:\My Project\Tugas\Microsoft Visual Studio\Array Bulann\Array Bulann\bin\Debug\Array Bulann.pdb
+D:\My Project\Tugas\Microsoft Visual Studio\Array Bulann\Array Bulann\bin\Debug\Array Bulann.xml
+D:\My Project\Tugas\Microsoft Visual Studio\Array Bulann\Array Bulann\obj\Debug\Array Bulann.exe
+D:\My Project\Tugas\Microsoft Visual Studio\Array Bulann\Array Bulann\obj\Debug\Array Bulann.xml
+D:\My Project\Tugas\Microsoft Visual Studio\Array Bulann\Array Bulann\obj\Debug\Array Bulann.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Bulann\Array Bulann\bin\Debug\Array Bulann.exe.config
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Bulann\Array Bulann\bin\Debug\Array Bulann.exe
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Bulann\Array Bulann\bin\Debug\Array Bulann.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Bulann\Array Bulann\bin\Debug\Array Bulann.xml
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Bulann\Array Bulann\obj\Debug\Array_Bulann.Form1.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Bulann\Array Bulann\obj\Debug\Array_Bulann.Resources.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Bulann\Array Bulann\obj\Debug\Array Bulann.vbproj.GenerateResource.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Bulann\Array Bulann\obj\Debug\Array Bulann.vbproj.CoreCompileInputs.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Bulann\Array Bulann\obj\Debug\Array Bulann.exe
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Bulann\Array Bulann\obj\Debug\Array Bulann.xml
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Bulann\Array Bulann\obj\Debug\Array Bulann.pdb

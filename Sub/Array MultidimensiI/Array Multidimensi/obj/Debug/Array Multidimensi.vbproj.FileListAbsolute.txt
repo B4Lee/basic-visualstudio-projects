@@ -1,0 +1,34 @@
+D:\My Project\Tugas\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\bin\Debug\Array Multidimensi.exe.config
+D:\My Project\Tugas\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\bin\Debug\Array Multidimensi.exe
+D:\My Project\Tugas\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\bin\Debug\Array Multidimensi.pdb
+D:\My Project\Tugas\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\bin\Debug\Array Multidimensi.xml
+D:\My Project\Tugas\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\obj\Debug\Array_Multidimensi.Form1.resources
+D:\My Project\Tugas\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\obj\Debug\Array_Multidimensi.Resources.resources
+D:\My Project\Tugas\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\obj\Debug\Array Multidimensi.vbproj.GenerateResource.Cache
+D:\My Project\Tugas\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\obj\Debug\Array Multidimensi.exe
+D:\My Project\Tugas\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\obj\Debug\Array Multidimensi.xml
+D:\My Project\Tugas\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\obj\Debug\Array Multidimensi.pdb
+D:\My Project\Tugas\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\obj\Debug\Array_Multidimensi.Form2.resources
+D:\My Project\Tugas\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\bin\Debug\Array Multidimensi.exe.config
+D:\My Project\Tugas\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\obj\Debug\Array Multidimensi.exe
+D:\My Project\Tugas\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\obj\Debug\Array Multidimensi.xml
+D:\My Project\Tugas\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\obj\Debug\Array Multidimensi.pdb
+D:\My Project\Tugas\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\bin\Debug\Array Multidimensi.exe
+D:\My Project\Tugas\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\bin\Debug\Array Multidimensi.pdb
+D:\My Project\Tugas\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\bin\Debug\Array Multidimensi.xml
+D:\My Project\Tugas\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\obj\Debug\Array_Multidimensi.Form1.resources
+D:\My Project\Tugas\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\obj\Debug\Array_Multidimensi.Form2.resources
+D:\My Project\Tugas\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\obj\Debug\Array_Multidimensi.Resources.resources
+D:\My Project\Tugas\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\obj\Debug\Array Multidimensi.vbproj.GenerateResource.Cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\bin\Debug\Array Multidimensi.exe.config
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\bin\Debug\Array Multidimensi.exe
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\bin\Debug\Array Multidimensi.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\bin\Debug\Array Multidimensi.xml
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\obj\Debug\Array_Multidimensi.Form1.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\obj\Debug\Array_Multidimensi.Form2.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\obj\Debug\Array_Multidimensi.Resources.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\obj\Debug\Array Multidimensi.vbproj.GenerateResource.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\obj\Debug\Array Multidimensi.vbproj.CoreCompileInputs.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\obj\Debug\Array Multidimensi.exe
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\obj\Debug\Array Multidimensi.xml
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array MultidimensiI\Array Multidimensi\obj\Debug\Array Multidimensi.pdb

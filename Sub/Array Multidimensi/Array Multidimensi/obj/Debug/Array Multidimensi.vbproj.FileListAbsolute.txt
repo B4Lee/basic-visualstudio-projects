@@ -1,0 +1,22 @@
+C:\Users\Lenovo\Desktop\Array Multidimensi\Array Multidimensi\bin\Debug\Array Multidimensi.exe.config
+C:\Users\Lenovo\Desktop\Array Multidimensi\Array Multidimensi\obj\Debug\Array_Multidimensi.Form1.resources
+C:\Users\Lenovo\Desktop\Array Multidimensi\Array Multidimensi\obj\Debug\Array_Multidimensi.Resources.resources
+C:\Users\Lenovo\Desktop\Array Multidimensi\Array Multidimensi\obj\Debug\Array Multidimensi.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Array Multidimensi\Array Multidimensi\bin\Debug\Array Multidimensi.exe
+C:\Users\Lenovo\Desktop\Array Multidimensi\Array Multidimensi\bin\Debug\Array Multidimensi.pdb
+C:\Users\Lenovo\Desktop\Array Multidimensi\Array Multidimensi\bin\Debug\Array Multidimensi.xml
+C:\Users\Lenovo\Desktop\Array Multidimensi\Array Multidimensi\obj\Debug\Array Multidimensi.exe
+C:\Users\Lenovo\Desktop\Array Multidimensi\Array Multidimensi\obj\Debug\Array Multidimensi.xml
+C:\Users\Lenovo\Desktop\Array Multidimensi\Array Multidimensi\obj\Debug\Array Multidimensi.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\bin\Debug\Array Multidimensi.exe
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\bin\Debug\Array Multidimensi.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\bin\Debug\Array Multidimensi.xml
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\obj\Debug\Array Multidimensi.vbprojAssemblyReference.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\obj\Debug\Array_Multidimensi.Form1.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\obj\Debug\Array_Multidimensi.Resources.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\obj\Debug\Array Multidimensi.vbproj.GenerateResource.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\obj\Debug\Array Multidimensi.vbproj.CoreCompileInputs.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\obj\Debug\Array Multidimensi.exe
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\obj\Debug\Array Multidimensi.xml
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\obj\Debug\Array Multidimensi.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Multidimensi\Array Multidimensi\bin\Debug\Array Multidimensi.exe.config

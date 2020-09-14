@@ -1,0 +1,36 @@
+D:\My Project\Tugas Sekolah\Latihan\My First Program\My First Program\bin\Debug\My First Program.exe.config
+D:\My Project\Tugas Sekolah\Latihan\My First Program\My First Program\obj\Debug\My_First_Program.Form1.resources
+D:\My Project\Tugas Sekolah\Latihan\My First Program\My First Program\obj\Debug\My_First_Program.Resources.resources
+D:\My Project\Tugas Sekolah\Latihan\My First Program\My First Program\obj\Debug\My First Program.vbproj.GenerateResource.Cache
+D:\My Project\Tugas Sekolah\Latihan\My First Program\My First Program\bin\Debug\My First Program.exe
+D:\My Project\Tugas Sekolah\Latihan\My First Program\My First Program\bin\Debug\My First Program.pdb
+D:\My Project\Tugas Sekolah\Latihan\My First Program\My First Program\bin\Debug\My First Program.xml
+D:\My Project\Tugas Sekolah\Latihan\My First Program\My First Program\obj\Debug\My First Program.exe
+D:\My Project\Tugas Sekolah\Latihan\My First Program\My First Program\obj\Debug\My First Program.xml
+D:\My Project\Tugas Sekolah\Latihan\My First Program\My First Program\obj\Debug\My First Program.pdb
+D:\My Project\Tugas\Latihan\My First Program\My First Program\bin\Debug\My First Program.exe.config
+D:\My Project\Tugas\Latihan\My First Program\My First Program\obj\Debug\My First Program.exe
+D:\My Project\Tugas\Latihan\My First Program\My First Program\obj\Debug\My First Program.xml
+D:\My Project\Tugas\Latihan\My First Program\My First Program\obj\Debug\My First Program.pdb
+D:\My Project\Tugas\Latihan\My First Program\My First Program\bin\Debug\My First Program.exe
+D:\My Project\Tugas\Latihan\My First Program\My First Program\bin\Debug\My First Program.pdb
+D:\My Project\Tugas\Latihan\My First Program\My First Program\bin\Debug\My First Program.xml
+D:\My Project\Tugas\Latihan\My First Program\My First Program\obj\Debug\My_First_Program.Form1.resources
+D:\My Project\Tugas\Latihan\My First Program\My First Program\obj\Debug\My_First_Program.Resources.resources
+D:\My Project\Tugas\Latihan\My First Program\My First Program\obj\Debug\My First Program.vbproj.GenerateResource.Cache
+D:\My Files\Data\Tugas\Microsoft Visual Studio\My First Program\My First Program\bin\Debug\My First Program.exe.config
+D:\My Files\Data\Tugas\Microsoft Visual Studio\My First Program\My First Program\obj\Debug\My First Program.exe
+D:\My Files\Data\Tugas\Microsoft Visual Studio\My First Program\My First Program\obj\Debug\My First Program.xml
+D:\My Files\Data\Tugas\Microsoft Visual Studio\My First Program\My First Program\obj\Debug\My First Program.pdb
+D:\My Files\Tugas\Microsoft Visual Studio\My First Program\My First Program\bin\Debug\My First Program.exe.config
+D:\My Files\Tugas\Microsoft Visual Studio\My First Program\My First Program\obj\Debug\My First Program.exe
+D:\My Files\Tugas\Microsoft Visual Studio\My First Program\My First Program\obj\Debug\My First Program.xml
+D:\My Files\Tugas\Microsoft Visual Studio\My First Program\My First Program\obj\Debug\My First Program.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\My First Program\My First Program\obj\Debug\My First Program.vbprojAssemblyReference.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\My First Program\My First Program\obj\Debug\My_First_Program.Form1.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\My First Program\My First Program\obj\Debug\My_First_Program.Resources.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\My First Program\My First Program\obj\Debug\My First Program.vbproj.GenerateResource.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\My First Program\My First Program\obj\Debug\My First Program.vbproj.CoreCompileInputs.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\My First Program\My First Program\obj\Debug\My First Program.exe
+D:\My Files\File Sekolah\Microsoft Visual Studio\My First Program\My First Program\obj\Debug\My First Program.xml
+D:\My Files\File Sekolah\Microsoft Visual Studio\My First Program\My First Program\obj\Debug\My First Program.pdb

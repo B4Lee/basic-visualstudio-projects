@@ -1,0 +1,36 @@
+c:\users\wisnu anggoro\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+c:\users\wisnu anggoro\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+c:\users\wisnu anggoro\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+c:\users\wisnu anggoro\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+c:\users\wisnu anggoro\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+c:\users\wisnu anggoro\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+c:\users\wisnu anggoro\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+c:\users\wisnu anggoro\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+c:\users\wisnu anggoro\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+c:\users\wisnu anggoro\documents\visual studio 2012\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+D:\My Project\Tugas\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+D:\My Project\Tugas\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+D:\My Project\Tugas\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+D:\My Project\Tugas\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+D:\My Project\Tugas\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+D:\My Project\Tugas\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+D:\My Project\Tugas\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+D:\My Project\Tugas\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+D:\My Project\Tugas\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+D:\My Project\Tugas\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+D:\My Files\Tugas\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+D:\My Files\Tugas\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+D:\My Files\Tugas\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+D:\My Files\Tugas\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+D:\My Files\File Sekolah\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+D:\My Files\File Sekolah\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+D:\My Files\File Sekolah\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.vbprojAssemblyReference.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.CoreCompileInputs.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+D:\My Files\File Sekolah\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+D:\My Files\File Sekolah\Microsoft Visual Studio\Fungsi Operator\WindowsApplication4\obj\Debug\WindowsApplication4.pdb

@@ -1,0 +1,22 @@
+C:\Users\Lenovo\Desktop\Array Input\Array Input\bin\Debug\Array Input.exe.config
+C:\Users\Lenovo\Desktop\Array Input\Array Input\bin\Debug\Array Input.exe
+C:\Users\Lenovo\Desktop\Array Input\Array Input\bin\Debug\Array Input.pdb
+C:\Users\Lenovo\Desktop\Array Input\Array Input\bin\Debug\Array Input.xml
+C:\Users\Lenovo\Desktop\Array Input\Array Input\obj\Debug\Array_Input.Form1.resources
+C:\Users\Lenovo\Desktop\Array Input\Array Input\obj\Debug\Array_Input.Resources.resources
+C:\Users\Lenovo\Desktop\Array Input\Array Input\obj\Debug\Array Input.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Array Input\Array Input\obj\Debug\Array Input.exe
+C:\Users\Lenovo\Desktop\Array Input\Array Input\obj\Debug\Array Input.xml
+C:\Users\Lenovo\Desktop\Array Input\Array Input\obj\Debug\Array Input.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Input\Array Input\obj\Debug\Array Input.exe
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Input\Array Input\obj\Debug\Array Input.xml
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Input\Array Input\obj\Debug\Array Input.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Input\Array Input\bin\Debug\Array Input.exe.config
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Input\Array Input\bin\Debug\Array Input.exe
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Input\Array Input\bin\Debug\Array Input.pdb
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Input\Array Input\bin\Debug\Array Input.xml
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Input\Array Input\obj\Debug\Array Input.vbprojAssemblyReference.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Input\Array Input\obj\Debug\Array_Input.Form1.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Input\Array Input\obj\Debug\Array_Input.Resources.resources
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Input\Array Input\obj\Debug\Array Input.vbproj.GenerateResource.cache
+D:\My Files\File Sekolah\Microsoft Visual Studio\Array Input\Array Input\obj\Debug\Array Input.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Login Register Sytem\Login Register Sytem\bin\Debug\Login Register Sytem.exe.config
+C:\Users\Lenovo\Desktop\Login Register Sytem\Login Register Sytem\obj\Debug\Login_Register_Sytem.Form1.resources
+C:\Users\Lenovo\Desktop\Login Register Sytem\Login Register Sytem\obj\Debug\Login_Register_Sytem.Form2.resources
+C:\Users\Lenovo\Desktop\Login Register Sytem\Login Register Sytem\obj\Debug\Login_Register_Sytem.Resources.resources
+C:\Users\Lenovo\Desktop\Login Register Sytem\Login Register Sytem\obj\Debug\Login Register Sytem.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Login Register Sytem\Login Register Sytem\bin\Debug\Login Register Sytem.exe
+C:\Users\Lenovo\Desktop\Login Register Sytem\Login Register Sytem\bin\Debug\Login Register Sytem.pdb
+C:\Users\Lenovo\Desktop\Login Register Sytem\Login Register Sytem\bin\Debug\Login Register Sytem.xml
+C:\Users\Lenovo\Desktop\Login Register Sytem\Login Register Sytem\obj\Debug\Login Register Sytem.exe
+C:\Users\Lenovo\Desktop\Login Register Sytem\Login Register Sytem\obj\Debug\Login Register Sytem.xml
+C:\Users\Lenovo\Desktop\Login Register Sytem\Login Register Sytem\obj\Debug\Login Register Sytem.pdb
