@@ -34,3 +34,15 @@ D:\My Files\File Sekolah\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Bo
 D:\My Files\File Sekolah\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal_Guest_Book.Resources.resources
 D:\My Files\File Sekolah\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.vbproj.GenerateResource.cache
 D:\My Files\File Sekolah\Microsoft Visual Studio\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.vbproj.CoreCompileInputs.cache
+C:\Users\Naobou\Desktop\GitHub Clones\Basic-VisualStudio-Projects\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.exe.config
+C:\Users\Naobou\Desktop\GitHub Clones\Basic-VisualStudio-Projects\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.exe
+C:\Users\Naobou\Desktop\GitHub Clones\Basic-VisualStudio-Projects\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.pdb
+C:\Users\Naobou\Desktop\GitHub Clones\Basic-VisualStudio-Projects\Iqbal Guest Book\Iqbal Guest Book\bin\Debug\Iqbal Guest Book.xml
+C:\Users\Naobou\Desktop\GitHub Clones\Basic-VisualStudio-Projects\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.vbprojAssemblyReference.cache
+C:\Users\Naobou\Desktop\GitHub Clones\Basic-VisualStudio-Projects\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal_Guest_Book.Form1.resources
+C:\Users\Naobou\Desktop\GitHub Clones\Basic-VisualStudio-Projects\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal_Guest_Book.Resources.resources
+C:\Users\Naobou\Desktop\GitHub Clones\Basic-VisualStudio-Projects\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.vbproj.GenerateResource.cache
+C:\Users\Naobou\Desktop\GitHub Clones\Basic-VisualStudio-Projects\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.vbproj.CoreCompileInputs.cache
+C:\Users\Naobou\Desktop\GitHub Clones\Basic-VisualStudio-Projects\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.exe
+C:\Users\Naobou\Desktop\GitHub Clones\Basic-VisualStudio-Projects\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.xml
+C:\Users\Naobou\Desktop\GitHub Clones\Basic-VisualStudio-Projects\Iqbal Guest Book\Iqbal Guest Book\obj\Debug\Iqbal Guest Book.pdb
